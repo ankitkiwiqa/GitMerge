@@ -1,1 +1,3 @@
-BranchA line
+BranchB line
+
+:
