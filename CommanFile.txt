@@ -1,2 +1,3 @@
 BranchB line
+BranchA New line 1
 BranchA line
